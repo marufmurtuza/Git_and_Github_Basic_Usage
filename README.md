@@ -1,5 +1,5 @@
-### What is Git?
-
+## What is Git?
+---
 Git is a distributed version control system that allows developers to track changes in their codebase and collaborate with others on the same project. 
 It was created by Linus Torvalds in 2005 to manage the development of the Linux kernel, but has since become widely adopted in the software development industry.
 
@@ -10,8 +10,9 @@ Git works by creating a local repository on a developer's computer, which contai
 Overall, Git provides a powerful and flexible tool for managing software development projects, and is an essential part of modern software development workflows.
 
 
-### What is Github?
 
+## What is Github?
+---
 GitHub is a web-based platform that provides hosting for software development projects using the Git version control system. It allows developers to store and manage their code repositories, collaborate with others on their projects, and track changes to their code over time.
 
 GitHub provides a number of features to facilitate collaboration among developers. For example, developers can create and merge pull requests, which allow them to review and discuss changes to a codebase before merging them into the main branch. GitHub also provides tools for issue tracking, project management, and code review, which make it easier for developers to work together and stay organized.
@@ -21,8 +22,9 @@ GitHub has become an essential tool in the software development industry, with m
 In addition to its core features, GitHub also provides a marketplace where developers can find and use tools and services that integrate with the platform, such as continuous integration and deployment tools, code quality analysis tools, and more.
 
 
-### There is a common misconception among the beginners. They often think that, Git and Github are the same thing. But are they?
 
+## There is a common misconception among the beginners. They often think that, Git and Github are the same thing. But are they?
+---
 No, Git and GitHub are not the same thing, although they are often used together in software development workflows.
 
 Git is a distributed version control system that allows developers to track changes to their code over time and collaborate with others on the same project. It is a command-line tool that developers use locally on their computers to manage their code repositories.
@@ -34,8 +36,8 @@ In other words, Git is the tool that developers use to manage their code locally
 While GitHub is not the only platform that provides hosting for Git repositories (others include GitLab and Bitbucket), it has become one of the most popular and widely used platforms in the software development industry.
 
 
-### What are the stages involved in moving code changes from local workspace to a remote repository?
-
+## What are the stages involved in moving code changes from local workspace to a remote repository?
+---
 When working with Git, there are typically three stages involved in moving code changes from your local workspace to a remote repository:
 
 1. Working Directory: The working directory is the local directory on your computer where you make changes to your code.
@@ -49,8 +51,8 @@ When working with Git, there are typically three stages involved in moving code 
 In summary, the workflow for moving code changes from your local workspace to a remote repository typically involves making changes to your code in the working directory, staging those changes in the staging area, committing them to the local repository with a commit message, and then pushing those commits to a remote repository.
 
 
-### How to get started with Git and Github?
-
+## How to get started with Git and Github?
+---
 Basic steps to get started with Git:
 
 1. Install Git: Download and install Git for your operating system. You can find the official Git installer at [git-scm](https://git-scm.com/downloads).
@@ -69,8 +71,8 @@ Basic steps to get started with Git:
 
 These are the basic steps to get started with Git. As you become more familiar with Git, you can learn more advanced concepts and workflows to improve your productivity and efficiency.
 
-### How to config Git initially after installing?
-
+## How to config Git initially after installing?
+---
 After installing Git, you should configure your name and email address before using Git for the first time. Here's how you can do it:
 
 1. Open a terminal window or Git Bash (if you're using Windows).
@@ -86,8 +88,8 @@ You can check your configuration settings using the `git config --list` command.
 
 After configuring Git, you can start using it to manage your code repositories. You can create a new repository using the git init command and start tracking changes using the git add and git commit commands. You can also connect to remote repositories and collaborate with other developers using the git clone, git fetch, and git push commands.
 
-### How to create a local Git Repository?
-
+## How to create a local Git Repository?
+---
 To create a local Git repository, you can follow these steps:
 
 1. Open a terminal or command prompt on your computer.
@@ -108,7 +110,8 @@ git commit -m "Initial commit"
 ```
 That's it! You now have a local Git repository set up on your computer. You can continue to add files, make changes, and commit them to your repository as needed using the git add and git commit commands. You can also use other Git commands to view the history of your changes, create branches, merge changes from other branches, and more.
 
-### How to connect local Git with Github?
+## How to connect local Git with Github?
+---
 To login to your Github account in local Git, you'll need to configure Git with your Github credentials. Here's how you can do it:
 
 Open the Git Bash or command prompt on your computer.
@@ -142,7 +145,8 @@ Save and close the text editor. Your Github access token is now stored securely 
 
 You should now be able to use Git commands that interact with Github, such as pushing to and pulling from Github repositories, without needing to enter your Github credentials each time.
 
-### How to push local Git Repository to Github?
+## How to push local Git Repository to Github?
+---
 To push a local Git repository to GitHub, you can follow these steps:
 
 1. Create a new repository on GitHub: Log in to your GitHub account and click the "New" button to create a new repository. Give your repository a name and a description, and choose whether it should be public or private. Leave the other settings at their default values.
