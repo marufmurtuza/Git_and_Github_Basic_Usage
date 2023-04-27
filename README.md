@@ -165,7 +165,4 @@ This will push your local changes to the remote repository on GitHub. The `-u` o
 
 That's it! Your local Git repository is now pushed to GitHub and can be accessed by other developers or collaborators. You can continue to push changes to the remote repository using the git push command as needed.
 
-<img src="img/gitpush.jpg" style="height: 100px; width:100px;"/>
-<img src="img/gitpull.jpg" style="height: 100px; width:100px;"/>
-<img src="img/gitreset.jpg" style="height: 100px; width:100px;"/>
-<img src="img/gitrevert.jpg" style="height: 100px; width:100px;"/>
+<img src="img/gitpush.jpg" style="height: 200px; width:200px;"/> <img src="img/gitpull.jpg" style="height:200px; width:200px;"/> <img src="img/gitreset.jpg" style="height:200px; width:200px;"/> <img src="img/gitrevert.jpg" style="height:200px; width:200px;"/>
